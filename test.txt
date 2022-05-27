@@ -1,1 +1,1 @@
-[{"username":"TRASH","text":"Azalea V0.3.0.4 will be released today!"}]
+[{"username":"TRASH", "text": "Did I really just waste an hour of my life on this and i cant even make it easy to announce things here without github rate limiting me?"},{"username":"TRASH","text":"Azalea V0.3.0.4 will be released today!"}]
